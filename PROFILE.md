@@ -1,1 +1,1 @@
-Welcome to my profile readme.
+Welcome to my GITHub profile.
